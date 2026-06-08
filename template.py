@@ -10,6 +10,7 @@ list_of_file=[
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestions.py",
+    f"src/{project_name}/components/data_transformation.py",
     f"src/{project_name}/components/model_trainer.py",
     f"src/{project_name}/components/model_monitoring.py",
     f"src/{project_name}/pipelines/__init__.py",
